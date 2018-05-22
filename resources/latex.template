@@ -225,7 +225,7 @@ $abstract$
 \end{abstract}
 $endif$
 
-\textbf{Paper DOI:} \url{http://dx.doi.org/$formatted_doi$}\\
+\textbf{Paper DOI:} \url{https://doi.org/$formatted_doi$}\\
 \textbf{Software Repository:} \url{$repository$}\\
 \textbf{Software Archive:} \url{$archive_doi$}\\
 

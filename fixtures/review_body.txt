@@ -1,7 +1,7 @@
 **Submitting author:** @zhaozhang (<a href="http://orcid.org/0000-0001-5921-0035">Zhao Zhang</a>)
 **Repository:** <a href="https://github.com/applicationskeleton/Skeleton" target ="_blank">https://github.com/applicationskeleton/Skeleton</a>
 **Version:** v1.2
-**Archive:** <a href="http://dx.doi.org/10.5281/zenodo.13750" target ="_blank">http://dx.doi.org/10.5281/zenodo.13750</a>
+**Archive:** <a href="https://doi.org/10.5281/zenodo.13750" target ="_blank">https://doi.org/10.5281/zenodo.13750</a>
 
 ## Status
 
@@ -21,7 +21,7 @@ Markdown: [![status](http://joss.theoj.org/papers/6b34fdbf8215c1ecd4941afc8be7a7
 - [x] **Repository:** Is the source code for this software available at the <a target="_blank" href="https://github.com/applicationskeleton/Skeleton">repository url</a>?
 - [x] **License:** Does the repository contain a plain-text LICENSE file with the contents of an [OSI approved](https://opensource.org/licenses/alphabetical) software license?
 - [x] **Version:** Does the release version given match the GitHub release (v1.2)?
-- [x] **Archive:** Does the <a target="_blank" href="http://dx.doi.org/10.5281/zenodo.13750">software archive</a> resolve?
+- [x] **Archive:** Does the <a target="_blank" href="https://doi.org/10.5281/zenodo.13750">software archive</a> resolve?
 
 ### Functionality
 

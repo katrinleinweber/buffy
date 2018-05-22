@@ -17,6 +17,6 @@ describe Whedon::Auditor do
   end
 
   it "knows how to find the archive from the issue body" do
-    expect(subject.verify_archive).to eql("Archive: \"http://dx.doi.org/10.5281/zenodo.13750\"")
+    expect(subject.verify_archive).to eql("Archive: \"https://doi.org/10.5281/zenodo.13750\"")
   end
 end

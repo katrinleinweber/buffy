@@ -80,8 +80,8 @@ http_interactions:
         author:** @zhaozhang (<a href=\"http://orcid.org/0000-0001-5921-0035\">Zhao
         Zhang</a>)\r\n**Repository:** <a href=\"https://github.com/applicationskeleton/Skeleton\"
         target =\"_blank\">https://github.com/applicationskeleton/Skeleton</a>\r\n**Version:**
-        v1.2\r\n**Archive:** <a href=\"http://dx.doi.org/10.5281/zenodo.13750\" target
-        =\"_blank\">http://dx.doi.org/10.5281/zenodo.13750</a>\r\n\r\n## Status\r\n\r\n[![status](http://joss.theoj.org/papers/6b34fdbf8215c1ecd4941afc8be7a7e6/status.svg)](http://joss.theoj.org/papers/6b34fdbf8215c1ecd4941afc8be7a7e6)\r\n\r\nStatus
+        v1.2\r\n**Archive:** <a href=\"https://doi.org/10.5281/zenodo.13750\" target
+        =\"_blank\">https://doi.org/10.5281/zenodo.13750</a>\r\n\r\n## Status\r\n\r\n[![status](http://joss.theoj.org/papers/6b34fdbf8215c1ecd4941afc8be7a7e6/status.svg)](http://joss.theoj.org/papers/6b34fdbf8215c1ecd4941afc8be7a7e6)\r\n\r\nStatus
         badge code:\r\n\r\n```\r\nHTML: <a href=\"http://joss.theoj.org/papers/6b34fdbf8215c1ecd4941afc8be7a7e6\"><img
         src=\"http://joss.theoj.org/papers/6b34fdbf8215c1ecd4941afc8be7a7e6/status.svg\"></a>\r\nMarkdown:
         [![status](http://joss.theoj.org/papers/6b34fdbf8215c1ecd4941afc8be7a7e6/status.svg)]http://joss.theoj.org/papers/6b34fdbf8215c1ecd4941afc8be7a7e6\r\n```\r\n\r\n##
@@ -92,7 +92,7 @@ http_interactions:
         the contents of an [OSI approved](https://opensource.org/licenses/alphabetical)
         software license?\r\n- [x] **Version:** Does the release version given match
         the GitHub release (v1.2)?\r\n- [x] **Archive:** Does the <a target=\"_blank\"
-        href=\"http://dx.doi.org/10.5281/zenodo.13750\">software archive</a> resolve?\r\n\r\n###
+        href=\"https://doi.org/10.5281/zenodo.13750\">software archive</a> resolve?\r\n\r\n###
         Functionality\r\n\r\n- [x] **Installation:** Does installation proceed as
         outlined in the documentation?\r\n- [x] **Functionality:** Have the functional
         claims of the software been confirmed?\r\n- [x] **Performance:** Have the
@@ -197,8 +197,8 @@ http_interactions:
         author:** @zhaozhang (<a href=\"http://orcid.org/0000-0001-5921-0035\">Zhao
         Zhang</a>)\r\n**Repository:** <a href=\"https://github.com/applicationskeleton/Skeleton\"
         target =\"_blank\">https://github.com/applicationskeleton/Skeleton</a>\r\n**Version:**
-        v1.2\r\n**Archive:** <a href=\"http://dx.doi.org/10.5281/zenodo.13750\" target
-        =\"_blank\">http://dx.doi.org/10.5281/zenodo.13750</a>\r\n\r\n## Status\r\n\r\n[![status](http://joss.theoj.org/papers/6b34fdbf8215c1ecd4941afc8be7a7e6/status.svg)](http://joss.theoj.org/papers/6b34fdbf8215c1ecd4941afc8be7a7e6)\r\n\r\nStatus
+        v1.2\r\n**Archive:** <a href=\"https://doi.org/10.5281/zenodo.13750\" target
+        =\"_blank\">https://doi.org/10.5281/zenodo.13750</a>\r\n\r\n## Status\r\n\r\n[![status](http://joss.theoj.org/papers/6b34fdbf8215c1ecd4941afc8be7a7e6/status.svg)](http://joss.theoj.org/papers/6b34fdbf8215c1ecd4941afc8be7a7e6)\r\n\r\nStatus
         badge code:\r\n\r\n```\r\nHTML: <a href=\"http://joss.theoj.org/papers/6b34fdbf8215c1ecd4941afc8be7a7e6\"><img
         src=\"http://joss.theoj.org/papers/6b34fdbf8215c1ecd4941afc8be7a7e6/status.svg\"></a>\r\nMarkdown:
         [![status](http://joss.theoj.org/papers/6b34fdbf8215c1ecd4941afc8be7a7e6/status.svg)]http://joss.theoj.org/papers/6b34fdbf8215c1ecd4941afc8be7a7e6\r\n```\r\n\r\n##
@@ -209,7 +209,7 @@ http_interactions:
         the contents of an [OSI approved](https://opensource.org/licenses/alphabetical)
         software license?\r\n- [x] **Version:** Does the release version given match
         the GitHub release (v1.2)?\r\n- [x] **Archive:** Does the <a target=\"_blank\"
-        href=\"http://dx.doi.org/10.5281/zenodo.13750\">software archive</a> resolve?\r\n\r\n###
+        href=\"https://doi.org/10.5281/zenodo.13750\">software archive</a> resolve?\r\n\r\n###
         Functionality\r\n\r\n- [x] **Installation:** Does installation proceed as
         outlined in the documentation?\r\n- [x] **Functionality:** Have the functional
         claims of the software been confirmed?\r\n- [x] **Performance:** Have the

@@ -77,8 +77,8 @@ http_interactions:
         author:** @meyera (<a href=\"http://orcid.org/0000-0002-6944-2478\">Alexander
         Meyer</a>)\r\n**Repository:** <a href=\"https://github.com/meyera/riskscorer\"
         target =\"_blank\">https://github.com/meyera/riskscorer</a>\r\n**Version:**
-        v0.2.0\r\n**Archive:** <a href=\"http://dx.doi.org/10.5281/zenodo.51342\"
-        target =\"_blank\">http://dx.doi.org/10.5281/zenodo.51342</a>\r\n\r\n## Status\r\n\r\n[![status](http://joss.theoj.org/papers/b6fca2486948af8ebd56fc31fc7277c3/status.svg)](http://joss.theoj.org/papers/b6fca2486948af8ebd56fc31fc7277c3)\r\n\r\nStatus
+        v0.2.0\r\n**Archive:** <a href=\"https://doi.org/10.5281/zenodo.51342\"
+        target =\"_blank\">https://doi.org/10.5281/zenodo.51342</a>\r\n\r\n## Status\r\n\r\n[![status](http://joss.theoj.org/papers/b6fca2486948af8ebd56fc31fc7277c3/status.svg)](http://joss.theoj.org/papers/b6fca2486948af8ebd56fc31fc7277c3)\r\n\r\nStatus
         badge code:\r\n\r\n```\r\nHTML: <a href=\"http://joss.theoj.org/papers/b6fca2486948af8ebd56fc31fc7277c3\"><img
         src=\"http://joss.theoj.org/papers/b6fca2486948af8ebd56fc31fc7277c3/status.svg\"></a>\r\nMarkdown:
         [![status](http://joss.theoj.org/papers/b6fca2486948af8ebd56fc31fc7277c3/status.svg)](http://joss.theoj.org/papers/b6fca2486948af8ebd56fc31fc7277c3)\r\n```\r\n\r\n##
@@ -89,7 +89,7 @@ http_interactions:
         contents of an [OSI approved](https://opensource.org/licenses/alphabetical)
         software license?\r\n- [ ] **Version:** Does the release version given match
         the GitHub release (v0.2.0)?\r\n- [ ] **Archive:** Does the <a target=\"_blank\"
-        href=\"http://dx.doi.org/10.5281/zenodo.51342\">software archive</a> resolve?\r\n\r\n###
+        href=\"https://doi.org/10.5281/zenodo.51342\">software archive</a> resolve?\r\n\r\n###
         Functionality\r\n\r\n- [ ] **Installation:** Does installation proceed as
         outlined in the documentation?\r\n- [ ] **Functionality:** Have the functional
         claims of the software been confirmed?\r\n- [ ] **Performance:** Have the
@@ -116,7 +116,7 @@ http_interactions:
         author:** @genomematt (<a href=\"http://orcid.org/0000-0001-6624-4698\">Matthew
         J Wakefield</a>)\r\n**Repository:** <a href=\"http://github.com/genomematt/xenomapper/\"
         target =\"_blank\">http://github.com/genomematt/xenomapper/</a>\r\n**Version:**
-        v1.0.0\r\n**Archive:** <a href=\"http://dx.doi.org/10.5281/zenodo.51337\"
+        v1.0.0\r\n**Archive:** <a href=\"https://doi.org/10.5281/zenodo.51337\"
         target =\"_blank\">10.5281/zenodo.51337</a>\r\n\r\n## Status\r\n\r\n[![status](http://joss.theoj.org/papers/7065e20e97ff4e44695b5e9fef7cdcd8/status.svg)](http://joss.theoj.org/papers/7065e20e97ff4e44695b5e9fef7cdcd8)\r\n\r\nStatus
         badge code:\r\n\r\n```\r\nHTML: <a href=\"http://joss.theoj.org/papers/7065e20e97ff4e44695b5e9fef7cdcd8\"><img
         src=\"http://joss.theoj.org/papers/7065e20e97ff4e44695b5e9fef7cdcd8/status.svg\"></a>\r\nMarkdown:
@@ -128,7 +128,7 @@ http_interactions:
         the contents of an [OSI approved](https://opensource.org/licenses/alphabetical)
         software license?\r\n- [ ] **Version:** Does the release version given match
         the GitHub release (v1.0.0)?\r\n- [ ] **Archive:** Does the <a target=\"_blank\"
-        href=\"http://dx.doi.org/10.5281/zenodo.51337\">software archive</a> resolve?\r\n\r\n###
+        href=\"https://doi.org/10.5281/zenodo.51337\">software archive</a> resolve?\r\n\r\n###
         Functionality\r\n\r\n- [ ] **Installation:** Does installation proceed as
         outlined in the documentation?\r\n- [ ] **Functionality:** Have the functional
         claims of the software been confirmed?\r\n- [ ] **Performance:** Have the
@@ -155,7 +155,7 @@ http_interactions:
         author:** @harpolea (<a href=\"http://orcid.org/0000-0002-1530-781X\">Alice
         Harpole</a>)\r\n**Repository:** <a href=\"https://github.com/harpolea/r3d2\"
         target =\"_blank\">https://github.com/harpolea/r3d2</a>\r\n**Version:** v1.0\r\n**Archive:**
-        <a href=\"http://dx.doi.org/10.5281/zenodo.51096\" target =\"_blank\">http://dx.doi.org/10.5281/zenodo.51096</a>\r\n\r\n##
+        <a href=\"https://doi.org/10.5281/zenodo.51096\" target =\"_blank\">https://doi.org/10.5281/zenodo.51096</a>\r\n\r\n##
         Status\r\n\r\n[![status](http://joss.theoj.org/papers/99f57be50022ae8b2eecdd1d28b05766/status.svg)](http://joss.theoj.org/papers/99f57be50022ae8b2eecdd1d28b05766)\r\n\r\nStatus
         badge code:\r\n\r\n```\r\nHTML: <a href=\"http://joss.theoj.org/papers/99f57be50022ae8b2eecdd1d28b05766\"><img
         src=\"http://joss.theoj.org/papers/99f57be50022ae8b2eecdd1d28b05766/status.svg\"></a>\r\nMarkdown:
@@ -166,7 +166,7 @@ http_interactions:
         Does the repository contain a plain-text LICENSE file with the contents of
         an [OSI approved](https://opensource.org/licenses/alphabetical) software license?\r\n-
         [x] **Version:** Does the release version given match the GitHub release (v1.0)?\r\n-
-        [x] **Archive:** Does the <a target=\"_blank\" href=\"http://dx.doi.org/10.5281/zenodo.51096\">software
+        [x] **Archive:** Does the <a target=\"_blank\" href=\"https://doi.org/10.5281/zenodo.51096\">software
         archive</a> resolve?\r\n\r\n### Functionality\r\n\r\n- [ ] **Installation:**
         Does installation proceed as outlined in the documentation?\r\n- [ ] **Functionality:**
         Have the functional claims of the software been confirmed?\r\n- [ ] **Performance:**
@@ -193,8 +193,8 @@ http_interactions:
         author:** @jakevdp (<a href=\"http://orcid.org/0000-0002-9623-3401\">Jacob
         VanderPlas</a>)\r\n**Repository:** <a href=\"http://github.com/jakevdp/mst_clustering\"
         target=\"_blank\">http://github.com/jakevdp/mst_clustering</a>\r\n**Version:**
-        v1.0.0\r\n**Archive:** <a href=\"http://dx.doi.org/10.5281/zenodo.50995\"
-        target =\"_blank\">http://dx.doi.org/10.5281/zenodo.50995</a>\r\n\r\n## Status\r\n\r\n[![status](http://joss.theoj.org/papers/0b73d249cd34985b6fa1a5ad4f4f8014/status.svg)](http://joss.theoj.org/papers/0b73d249cd34985b6fa1a5ad4f4f8014)\r\n\r\nStatus
+        v1.0.0\r\n**Archive:** <a href=\"https://doi.org/10.5281/zenodo.50995\"
+        target =\"_blank\">https://doi.org/10.5281/zenodo.50995</a>\r\n\r\n## Status\r\n\r\n[![status](http://joss.theoj.org/papers/0b73d249cd34985b6fa1a5ad4f4f8014/status.svg)](http://joss.theoj.org/papers/0b73d249cd34985b6fa1a5ad4f4f8014)\r\n\r\nStatus
         badge code:\r\n\r\n```\r\nHTML: <a href=\"http://joss.theoj.org/papers/0b73d249cd34985b6fa1a5ad4f4f8014\"><img
         src=\"http://joss.theoj.org/papers/0b73d249cd34985b6fa1a5ad4f4f8014/status.svg\"></a>\r\nMarkdown:
         [![status](http://joss.theoj.org/papers/0b73d249cd34985b6fa1a5ad4f4f8014/status.svg)]http://joss.theoj.org/papers/0b73d249cd34985b6fa1a5ad4f4f8014\r\n```\r\n\r\n##
@@ -205,7 +205,7 @@ http_interactions:
         the contents of an [OSI approved](https://opensource.org/licenses/alphabetical)
         software license?\r\n- [ ] **Version:** Does the release version given match
         the GitHub release (v1.0.0)?\r\n- [x] **Archive:** Does the <a target=\"_blank\"
-        href=\"http://dx.doi.org/10.5281/zenodo.50995\">software archive</a> resolve?\r\n\r\n###
+        href=\"https://doi.org/10.5281/zenodo.50995\">software archive</a> resolve?\r\n\r\n###
         Functionality\r\n\r\n- [x] **Installation:** Does installation proceed as
         outlined in the documentation?\r\n- [x] **Functionality:** Have the functional
         claims of the software been confirmed?\r\n- [x] **Performance:** Have the
@@ -232,7 +232,7 @@ http_interactions:
         author:** @hrbrmstr (<a href=\"http://orcid.org/0000-0001-5670-2640\">Bob
         Rudis</a>)\r\n**Repository:** <a href=\"https://github.com/hrbrmstr/metricsgraphics\"
         target=\"_blank\">https://github.com/hrbrmstr/metricsgraphics</a>\r\n**Version:**
-        v0.9.1\r\n**Archive:** <a href=\"http://dx.doi.org/10.5281/zenodo.50373\"
+        v0.9.1\r\n**Archive:** <a href=\"https://doi.org/10.5281/zenodo.50373\"
         target=\"_blank\">10.5281/zenodo.50373</a>\r\n\r\n## Status\r\n\r\n[![status](http://joss.theoj.org/papers/1677676c38bd118db5fe363a6eb3f88f/status.svg)](http://joss.theoj.org/papers/1677676c38bd118db5fe363a6eb3f88f)\r\n\r\nStatus
         badge code:\r\n\r\n```\r\nHTML: <a href=\"http://joss.theoj.org/papers/1677676c38bd118db5fe363a6eb3f88f\"><img
         src=\"http://joss.theoj.org/papers/1677676c38bd118db5fe363a6eb3f88f/status.svg\"></a>\r\nMarkdown:

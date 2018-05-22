@@ -26,7 +26,7 @@ $google_authors$
     </div>
 
     <div class="one-third column" style="padding-top: 20px;">
-      <span class="repo">DOI:<br /><a href="http://dx.doi.org/$formatted_doi$">http://dx.doi.org/$formatted_doi$</a></span>
+      <span class="repo">DOI:<br /><a href="https://doi.org/$formatted_doi$">https://doi.org/$formatted_doi$</a></span>
     </div>
     <div class="one-third column" style="padding-top: 20px;">
       <span class="paper">Status badge:<br /><img src="http://joss.theoj.org/papers/$formatted_doi$/status.svg"></span>
